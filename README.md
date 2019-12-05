@@ -1,8 +1,11 @@
-# Getting Started
+Code Review / Refactoring exercise
+----------------------------------
 
-### Reference Documentation
-For further reference, please consider the following sections:
-
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.1.RELEASE/maven-plugin/)
-
+Feedback
+--------
+- more than one separated piece of code within a single class.
+- It is not designed to be extended.
+- Violation of SOLID Principles.
+- Difficult maintainability.
+- The names of some variables are not very descriptive.
+- Don't apply object-oriented development, design patterns, clean code.
